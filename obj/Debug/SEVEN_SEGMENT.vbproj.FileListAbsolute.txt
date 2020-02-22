@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\SEVEN_SEGMENT\SEVEN_SEGMENT\bin\Debug\SEVEN_SEGMENT.exe.config
+C:\Users\admin\source\repos\SEVEN_SEGMENT\SEVEN_SEGMENT\bin\Debug\SEVEN_SEGMENT.exe
+C:\Users\admin\source\repos\SEVEN_SEGMENT\SEVEN_SEGMENT\bin\Debug\SEVEN_SEGMENT.pdb
+C:\Users\admin\source\repos\SEVEN_SEGMENT\SEVEN_SEGMENT\bin\Debug\SEVEN_SEGMENT.xml
+C:\Users\admin\source\repos\SEVEN_SEGMENT\SEVEN_SEGMENT\obj\Debug\SEVEN_SEGMENT.vbprojAssemblyReference.cache
+C:\Users\admin\source\repos\SEVEN_SEGMENT\SEVEN_SEGMENT\obj\Debug\SEVEN_SEGMENT.Form1.resources
+C:\Users\admin\source\repos\SEVEN_SEGMENT\SEVEN_SEGMENT\obj\Debug\SEVEN_SEGMENT.Resources.resources
+C:\Users\admin\source\repos\SEVEN_SEGMENT\SEVEN_SEGMENT\obj\Debug\SEVEN_SEGMENT.vbproj.GenerateResource.cache
+C:\Users\admin\source\repos\SEVEN_SEGMENT\SEVEN_SEGMENT\obj\Debug\SEVEN_SEGMENT.exe
+C:\Users\admin\source\repos\SEVEN_SEGMENT\SEVEN_SEGMENT\obj\Debug\SEVEN_SEGMENT.xml
+C:\Users\admin\source\repos\SEVEN_SEGMENT\SEVEN_SEGMENT\obj\Debug\SEVEN_SEGMENT.pdb
